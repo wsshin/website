@@ -1,4 +1,4 @@
-Sitemap: https://www.mit.edu/~wsshin/sitemap.xml
+Sitemap: https://tlienart.github.io/FranklinTemplates.jl/sitemap.xml
 
 User-agent: *
 Disallow:
